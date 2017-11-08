@@ -2,7 +2,7 @@
 Genetic Algorithm (GA) for making Ensemble of Predictors
 
 
-# Research Related to This Codes
+# Research Related to this Algorithm are:
 
 Dimensionality reduction, and function approximation of poly (lactic-co-glycolic acid) micro-and nanoparticle dissolution rate
 VK Ojha, K Jackowski, A Abraham, V Snášel - International journal of nanomedicine, 2015<br>
